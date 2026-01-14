@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project demonstrates an end-to-end data analytics pipeline using Python, PostgreSQL, and SQL.
 
+## 🔄 Project Workflow
+
+![Project Workflow](images/workflow.png)
+
 ## 🛠 Tools & Technologies
 - Python
 - Pandas
