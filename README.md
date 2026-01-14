@@ -5,7 +5,12 @@ This project demonstrates an end-to-end data analytics pipeline using Python, Po
 
 ## 🔄 Project Workflow
 
-![Project Workflow](images/workflow.png)
+## 🔄 Project Workflow
+
+<p align ="center">
+  <img src="images/workflow.png" width="700">
+</p>
+
 
 ## 🛠 Tools & Technologies
 - Python
